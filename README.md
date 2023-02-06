@@ -20,3 +20,6 @@ And learn the JavaScripts frameworks [Vue](https://github.com/vuejs/vue)
 >⚡ Fun fact: 
 >> JavaScript — do you love it? Hate it? Love to hate it? However you feel about it, JavaScript is wildly popular among web and app developers, both server-side and client-side. Despite this popularity, JavaScript has a humble history with many strange quirks along the way. Enjoy this JavaScript trivia, which is (in my opinion) perfectly suited for capturing the center of attention at parties.
 
+#Stats
+
+[![0cx0000007b stats](https://github-readme-stats.vercel.app/api?username=0xc0000007b)](https://github.com/anuraghazra/github-readme-stats)
