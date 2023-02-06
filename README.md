@@ -22,4 +22,4 @@ And learn the JavaScripts frameworks [Vue](https://github.com/vuejs/vue)
 
 #Stats
 
-[![0xc0000007b GitHub stats](https://github-readme-stats.vercel.app/api?username=0xc0000007b)](https://github.com/0xc0000007b)
+[![0xc0000007b GitHub stats](https://github-readme-stats.vercel.app/api?username=0xc0000007b&theme=dracula)](https://github.com/0xc0000007b)
